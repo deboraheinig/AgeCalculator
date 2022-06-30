@@ -56,10 +56,11 @@
         android:backgroundTint="#a3c4f3"/>
 
     <TextView
+        android:id="@+id/tvSelectedDate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="26dp"
-        android:text="26/06/2001"
+        android:text="dd/mm/yyyy"
         android:textColor="#a3c4f3"
         android:textSize="26sp"
         android:textStyle="bold"/>
@@ -74,10 +75,11 @@
         android:textStyle=""/>
 
     <TextView
+        android:id="@+id/tvAgeInMinutes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="26dp"
-        android:text="126000000"
+        android:text="minutes"
         android:textColor="#a3c4f3"
         android:textSize="26sp"
         android:textStyle="bold"/>
