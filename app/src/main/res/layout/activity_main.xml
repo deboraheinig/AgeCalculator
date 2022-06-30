@@ -14,7 +14,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="26dp"
-        android:text="Calculate your"
+        android:text="Calcule sua"
         android:textColor="#a3c4f3"
         android:textSize="26sp"
         android:textStyle="bold"/>
@@ -30,7 +30,7 @@
             android:layout_height="wrap_content"
             android:background="#a3c4f3"
             android:padding="14dp"
-            android:text="age"
+            android:text="idade"
             android:textColor="@color/white"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -40,7 +40,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="26dp"
-        android:text="in minutes"
+        android:text="em minutos"
         android:textColor="#a3c4f3"
         android:textSize="24sp"
         android:textStyle="bold"/>
@@ -60,7 +60,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="26dp"
-        android:text="dd/mm/yyyy"
+        android:text=""
         android:textColor="#a3c4f3"
         android:textSize="26sp"
         android:textStyle="bold"/>
@@ -79,7 +79,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="26dp"
-        android:text="minutes"
+        android:text=""
         android:textColor="#a3c4f3"
         android:textSize="26sp"
         android:textStyle="bold"/>
